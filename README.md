@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <!-- [Header dan Style CSS sebelumnya tetap sama] -->
 
